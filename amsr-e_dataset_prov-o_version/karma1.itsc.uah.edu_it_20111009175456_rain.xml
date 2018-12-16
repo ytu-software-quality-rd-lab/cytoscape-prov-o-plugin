@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<prov:document xmlns:prov="http://www.w3.org/ns/prov#" xmlns:ns2="http://openprovenance.org/prov/extension#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:pronaliz="http://www.pronaliz.yildiz.edu.tr">
+<prov:activity prov:id="Process_3467">
+	<prov:startTime>2011-10-09T00:54:56.000-04:00</prov:startTime>
+	<prov:endTime>2011-10-09T00:54:56.000-04:00</prov:endTime>
+</prov:activity>
+<prov:entity prov:id="File_1555">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_3467"/>
+	<prov:entity prov:ref="File_1555"/>
+</prov:used>
+<prov:activity prov:id="Process_3468">
+	<prov:startTime>2011-10-09T00:56:21.000-04:00</prov:startTime>
+	<prov:endTime>2011-10-09T00:56:21.000-04:00</prov:endTime>
+</prov:activity>
+<prov:entity prov:id="File_2692">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_3468"/>
+	<prov:entity prov:ref="File_2692"/>
+</prov:used>
+<prov:entity prov:id="File_2691">
+</prov:entity>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_2691"/>
+	<prov:usedEntity prov:ref="File_2692"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_2692"/>
+	<prov:usedEntity prov:ref="File_1555"/>
+</prov:wasDerivedFrom>
+<prov:wasInformedBy>
+	<prov:informed prov:ref="Process_3468"/>
+	<prov:informant prov:ref="Process_3467"/>
+</prov:wasInformedBy>
+<prov:activity prov:id="Process_3466">
+	<prov:startTime>2011-10-09T00:54:56.000-04:00</prov:startTime>
+	<prov:endTime>2011-10-09T00:54:56.000-04:00</prov:endTime>
+</prov:activity>
+<prov:wasInformedBy>
+	<prov:informed prov:ref="Process_3467"/>
+	<prov:informant prov:ref="Process_3466"/>
+</prov:wasInformedBy>
+<prov:wasInformedBy>
+	<prov:informed prov:ref="Process_3468"/>
+	<prov:informant prov:ref="Process_3466"/>
+</prov:wasInformedBy>
+<prov:wasGeneratedBy>
+	<prov:entity prov:ref="File_2691"/>
+	<prov:activity prov:ref="Process_3468"/>
+	<prov:role>Output</prov:role>
+</prov:wasGeneratedBy>
+<prov:wasGeneratedBy>
+	<prov:entity prov:ref="File_2692"/>
+	<prov:activity prov:ref="Process_3467"/>
+	<prov:role>Output</prov:role>
+</prov:wasGeneratedBy>
+</prov:document>

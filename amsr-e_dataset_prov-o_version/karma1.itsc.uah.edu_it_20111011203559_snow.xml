@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<prov:document xmlns:prov="http://www.w3.org/ns/prov#" xmlns:ns2="http://openprovenance.org/prov/extension#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:pronaliz="http://www.pronaliz.yildiz.edu.tr">
+<prov:activity prov:id="Process_5880">
+	<prov:startTime>2011-10-11T00:36:00.000-04:00</prov:startTime>
+	<prov:endTime>2011-10-11T00:36:00.000-04:00</prov:endTime>
+</prov:activity>
+<prov:entity prov:id="File_2">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_2"/>
+</prov:used>
+<prov:entity prov:id="File_4">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_4"/>
+</prov:used>
+<prov:entity prov:id="File_6">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_6"/>
+</prov:used>
+<prov:entity prov:id="File_7">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_7"/>
+</prov:used>
+<prov:entity prov:id="File_9">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_9"/>
+</prov:used>
+<prov:entity prov:id="File_11">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_11"/>
+</prov:used>
+<prov:entity prov:id="File_13">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_13"/>
+</prov:used>
+<prov:entity prov:id="File_15">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_15"/>
+</prov:used>
+<prov:entity prov:id="File_17">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_17"/>
+</prov:used>
+<prov:entity prov:id="File_19">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_19"/>
+</prov:used>
+<prov:entity prov:id="File_22">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_22"/>
+</prov:used>
+<prov:entity prov:id="File_23">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_23"/>
+</prov:used>
+<prov:entity prov:id="File_25">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_25"/>
+</prov:used>
+<prov:entity prov:id="File_27">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_27"/>
+</prov:used>
+<prov:entity prov:id="File_29">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_29"/>
+</prov:used>
+<prov:entity prov:id="File_32">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_32"/>
+</prov:used>
+<prov:entity prov:id="File_33">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_33"/>
+</prov:used>
+<prov:entity prov:id="File_35">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_35"/>
+</prov:used>
+<prov:entity prov:id="File_37">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_37"/>
+</prov:used>
+<prov:entity prov:id="File_39">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_39"/>
+</prov:used>
+<prov:entity prov:id="File_41">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_41"/>
+</prov:used>
+<prov:entity prov:id="File_43">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_43"/>
+</prov:used>
+<prov:entity prov:id="File_46">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_46"/>
+</prov:used>
+<prov:entity prov:id="File_47">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_47"/>
+</prov:used>
+<prov:entity prov:id="File_49">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_49"/>
+</prov:used>
+<prov:entity prov:id="File_51">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_51"/>
+</prov:used>
+<prov:entity prov:id="File_53">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_53"/>
+</prov:used>
+<prov:entity prov:id="File_55">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_55"/>
+</prov:used>
+<prov:entity prov:id="File_57">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:entity prov:ref="File_57"/>
+</prov:used>
+<prov:activity prov:id="Process_5881">
+	<prov:startTime>2011-10-11T00:54:27.000-04:00</prov:startTime>
+	<prov:endTime>2011-10-11T00:54:26.000-04:00</prov:endTime>
+</prov:activity>
+<prov:entity prov:id="File_4562">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5881"/>
+	<prov:entity prov:ref="File_4562"/>
+</prov:used>
+<prov:activity prov:id="Process_5884">
+	<prov:startTime>2011-10-11T00:54:27.000-04:00</prov:startTime>
+	<prov:endTime>2011-10-11T00:54:27.000-04:00</prov:endTime>
+</prov:activity>
+<prov:used>
+	<prov:activity prov:ref="Process_5884"/>
+	<prov:entity prov:ref="File_4562"/>
+</prov:used>
+<prov:activity prov:id="Process_5882">
+	<prov:startTime>2011-10-11T00:54:28.000-04:00</prov:startTime>
+	<prov:endTime>2011-10-11T00:54:28.000-04:00</prov:endTime>
+</prov:activity>
+<prov:entity prov:id="File_4564">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5882"/>
+	<prov:entity prov:ref="File_4564"/>
+</prov:used>
+<prov:entity prov:id="File_4565">
+	<prov:value>Input</prov:value>
+</prov:entity>
+<prov:used>
+	<prov:activity prov:ref="Process_5882"/>
+	<prov:entity prov:ref="File_4565"/>
+</prov:used>
+<prov:entity prov:id="File_4561">
+</prov:entity>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4561"/>
+	<prov:usedEntity prov:ref="File_4562"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_19"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_2"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_22"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_4"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_23"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_6"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_25"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_7"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_27"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_9"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_29"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_11"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_13"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_15"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_32"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_17"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_33"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_35"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_37"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_39"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_41"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_43"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_46"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_47"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_49"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_51"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_53"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_55"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4562"/>
+	<prov:usedEntity prov:ref="File_57"/>
+</prov:wasDerivedFrom>
+<prov:entity prov:id="File_4563">
+</prov:entity>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4563"/>
+	<prov:usedEntity prov:ref="File_4564"/>
+</prov:wasDerivedFrom>
+<prov:wasDerivedFrom>
+	<prov:generatedEntity prov:ref="File_4563"/>
+	<prov:usedEntity prov:ref="File_4565"/>
+</prov:wasDerivedFrom>
+<prov:wasInformedBy>
+	<prov:informed prov:ref="Process_5881"/>
+	<prov:informant prov:ref="Process_5880"/>
+</prov:wasInformedBy>
+<prov:wasInformedBy>
+	<prov:informed prov:ref="Process_5884"/>
+	<prov:informant prov:ref="Process_5880"/>
+</prov:wasInformedBy>
+<prov:activity prov:id="Process_5883">
+	<prov:startTime>2011-10-11T00:36:10.000-04:00</prov:startTime>
+	<prov:endTime>2011-10-11T00:36:10.000-04:00</prov:endTime>
+</prov:activity>
+<prov:wasInformedBy>
+	<prov:informed prov:ref="Process_5880"/>
+	<prov:informant prov:ref="Process_5883"/>
+</prov:wasInformedBy>
+<prov:wasInformedBy>
+	<prov:informed prov:ref="Process_5881"/>
+	<prov:informant prov:ref="Process_5883"/>
+</prov:wasInformedBy>
+<prov:wasInformedBy>
+	<prov:informed prov:ref="Process_5884"/>
+	<prov:informant prov:ref="Process_5883"/>
+</prov:wasInformedBy>
+<prov:wasInformedBy>
+	<prov:informed prov:ref="Process_5882"/>
+	<prov:informant prov:ref="Process_5883"/>
+</prov:wasInformedBy>
+<prov:wasGeneratedBy>
+	<prov:entity prov:ref="File_4561"/>
+	<prov:activity prov:ref="Process_5881"/>
+	<prov:role>Output</prov:role>
+</prov:wasGeneratedBy>
+<prov:wasGeneratedBy>
+	<prov:entity prov:ref="File_4562"/>
+	<prov:activity prov:ref="Process_5880"/>
+	<prov:role>Output</prov:role>
+</prov:wasGeneratedBy>
+<prov:wasGeneratedBy>
+	<prov:entity prov:ref="File_4563"/>
+	<prov:activity prov:ref="Process_5882"/>
+	<prov:role>Output</prov:role>
+</prov:wasGeneratedBy>
+</prov:document>
