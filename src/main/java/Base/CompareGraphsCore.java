@@ -271,9 +271,6 @@ public class CompareGraphsCore {
         }
         System.out.println("Total time to sort attendance list: " + (System.currentTimeMillis() - startTime));
 
-        System.out.println("Attendance List: " + attendanceList.toString());
-
-        // Attendance listesinde
         ArrayList<String> differentNodes = new ArrayList<>();
         for(int i=0; i<attendanceList.size(); i++){
             JSONObject temp = (JSONObject) attendanceList.get(i);
