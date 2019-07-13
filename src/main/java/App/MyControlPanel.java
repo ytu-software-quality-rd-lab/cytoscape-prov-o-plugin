@@ -1170,7 +1170,7 @@ public class MyControlPanel extends JPanel implements CytoPanelComponent{
             @Override
             public void actionPerformed(ActionEvent actionEvent) {
                 KMeansClustering kMeansClustering = new KMeansClustering(adapter);
-                kMeansClustering.applyKMeansClustering(Integer.parseInt(clusteringSpinner.getValue().toString()));
+                ArrayList<ArrayList<String>> clusters = kMeansClustering.applyKMeansClustering(Integer.parseInt(clusteringSpinner.getValue().toString()));
             }
         });
 

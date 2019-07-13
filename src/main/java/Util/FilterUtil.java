@@ -5,6 +5,8 @@ import java.lang.String;
 
 import org.cytoscape.app.swing.CySwingAppAdapter;
 import org.cytoscape.model.*;
+import org.json.simple.JSONObject;
+
 // This class is for providing some usefull methods for the rest of the program
 public class FilterUtil {
     // Variables
@@ -43,6 +45,28 @@ public class FilterUtil {
         }
         return allNodes;
     }
+    // This method is for getting all nodes in the network with their id's
+    public HashMap<String, CyNode> getAllNodesWithId (){
+        HashMap<String, CyNode> allNodes = new HashMap<>();
+        rows=table.getAllRows();
+        // Get all rows and transform them to the nodes and add it to allNodes list
+        for (int i=0;i<rows.size();i++){
+            long suid = rows.get(i).get(CyIdentifiable.SUID, Long.class);
+            allNodes.put(rows.get(i).get("name", String.class), network.getNode(suid));
+        }
+        return allNodes;
+    }
+
+    public Object getValueById(String id, String idColumn, String attributeName){
+        for (int i=0;i<rows.size();i++){
+            long suid = rows.get(i).get(CyIdentifiable.SUID, Long.class);
+            if(rows.get(i).get(idColumn, String.class).equals(id)){
+                return rows.get(i).get(attributeName, Object.class);
+            }
+        }
+
+        return null;
+    }
     // This method is for finding node type of a node
     public String findNodeType(CyNode node){
         String nodeType;
@@ -50,6 +74,7 @@ public class FilterUtil {
         nodeType=network.getRow(node).get("nodeType",String.class);
         return nodeType;
     }
+
     // This method finds all available node types. It is necessary to show all node type in the show only, hide and highlight panels
     public String[] findAvailableNodeTypes(){
         List<String> tmp = new ArrayList<String>();
